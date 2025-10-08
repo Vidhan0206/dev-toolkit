@@ -200,6 +200,14 @@ Thanks goes to these wonderful people:
     <br />💻
   </td>
   <td align="center">
+    <a href="https://github.com/apps/github-actions">
+      <img src="https://avatars.githubusercontent.com/in/15368?v=4" width="100px;" alt="github-actions[bot]"/>
+      <br />
+      <sub><b>github-actions[bot]</b></sub>
+    </a>
+    <br />💻
+  </td>
+  <td align="center">
     <a href="https://github.com/paresh0805">
       <img src="https://avatars.githubusercontent.com/u/192526004?v=4" width="100px;" alt="paresh0805"/>
       <br />
@@ -212,14 +220,6 @@ Thanks goes to these wonderful people:
       <img src="https://avatars.githubusercontent.com/u/116160426?v=4" width="100px;" alt="codingr15"/>
       <br />
       <sub><b>codingr15</b></sub>
-    </a>
-    <br />💻
-  </td>
-  <td align="center">
-    <a href="https://github.com/apps/github-actions">
-      <img src="https://avatars.githubusercontent.com/in/15368?v=4" width="100px;" alt="github-actions[bot]"/>
-      <br />
-      <sub><b>github-actions[bot]</b></sub>
     </a>
     <br />💻
   </td>
